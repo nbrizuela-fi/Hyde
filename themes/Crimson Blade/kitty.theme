@@ -1,0 +1,34 @@
+$HOME/.config/kitty/theme.conf|killall -SIGUSR1 kitty
+
+
+background            #0C0B16 
+foreground            #eceffd 
+cursor                #fdcd5e
+selection_background  none
+color0                #03063c
+color8                #6c5a30
+color1                #c60049
+color9                #d94a8a
+color2                #abf157
+color10               #daffa8
+color3                #fdcd5e
+color11               #fee6a8
+color4                #525fb8
+color12               #b1bdf9
+color5                #976f81
+color13               #fda4cc
+color6                #968662
+color14               #a4bc86
+color7                #7e3d98
+color15               #9c439b
+selection_foreground  none
+
+active_tab_foreground   #ece4ff 
+active_tab_background   #9c439b
+
+inactive_tab_foreground #ece4ff
+inactive_tab_background #0C0B16
+
+
+
+tab_title_format "{cmd} ({num_windows})"
