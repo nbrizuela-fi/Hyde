@@ -1,2 +1,2 @@
 hyde.conf
-./themes/**/*.set
+*.set
